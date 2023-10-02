@@ -15,3 +15,6 @@ other one focuses solely on the challenge and requirement.
 
 # Link: 
 <a href="https://codepen.io/iMultiThinker/pen/mdajgxG?editors=0012">Codepen</a>
+
+# Loom: 
+<a href="https://www.loom.com/share/67b20fd4d18d49f58af0de314003c7b8">Loom</a>
